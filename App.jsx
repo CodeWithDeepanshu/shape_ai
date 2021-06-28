@@ -1,25 +1,25 @@
 import React from "react";
 import Header from "./Header";
 import Footer from "./Footer";
-import Info from "./info";
+import info from "./info";
 
 function App() {
 	return (
 		<div>
 			<Header />
 			<Footer />
-			<Info />
-			<Info />
-			<Info />
-			<Info />
-			<Info />
-			<Info />
-			<Info />
-			<Info />
-			<Info />
-			<Info />
-			<Info />
-			<Info />
+			<info />
+			<info />
+			<info />
+			<info />
+			<info />
+			<info />
+			<info />
+			<info />
+			<info />
+			<info />
+			<info />
+			<info />
 		</div>
 	);
 }
